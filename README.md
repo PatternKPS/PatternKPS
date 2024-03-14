@@ -42,11 +42,12 @@ Name | Completed |  URL | Organizations
 
 - **[Submitted to IEEE TPAMI (Under review)]** Yang, M. S., **Sinaga, K. P.** Federated multi-view k-means clustering.
 
-- **[Completed (Not Submitted Yet)]** Yang, M. S., **Sinaga, K. P.**  Federated weighted multi-view fuzzy c-means.
+- **[In Manuscript]** Yang, M. S., **Sinaga, K. P.**  Federated weighted multi-view fuzzy c-means.
 
-- **[Completed (Not Submitted Yet)]** **Sinaga, K. P.**, Yang, M. S.  A globally collaborative multi-view k-means clustering.
+- **[In Manuscript]** **Sinaga, K. P.**, Yang, M. S.  A globally collaborative multi-view k-means clustering.
 
-- **[Completed (Not Submitted Yet)]** **Sinaga, K. P.** Rectified Gaussian kernel multi-view k-means clustering.
+- **[In Manuscript]** **Sinaga, K. P.** Rectified Gaussian kernel multi-view k-means clustering.
+- **[etc...]**
 
 
 
