@@ -49,7 +49,7 @@ Name | Completed |  URL | Organizations
 
 
 
-If you are interested in more details, check out [**my website**](https://patternkps.github.io/about/)<br>  
+If you are interested in more details, check out [**my website**](https://patternkps.github.io/about/) or my <a href="Curriculum_Vitae.pdf" class="btn-theme btn-theme-md btn-default-bg text-uppercase">**CV**</a><br>  <br>  
 
 ### Links
 
