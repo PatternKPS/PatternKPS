@@ -11,7 +11,7 @@
 - 📖 Dissertation: Multi-view fuzzy clustering algorithms for multi-view data (In Chinese: 多視圖數據模糊聚類演算法); Advised by [Prof. Miin-Shen Yang](https://scholar.google.com/citations?user=DTrFkOYAAAAJ&hl=zh-TW).
 - 🎮 I am a lifelong learner and driven by community 😀. 
 - 💡 I have worked on various unsupervised learning techniques, including clustering, dimensionality reduction, and anomaly detection. In my most recent project, I developed a new approach to clustering that leverages federated learning to enable multi-view k-means (MVKM) and multi-view fuzzy c-means (MVFCM) addressing multiple clients' multi-view data.
-- Anyway, I have a Chinese name given by the CYCU, 許蒂娜 (Xǔ dì nà)
+- Anyway, I have a Chinese name given by the CYCU, 許蒂娜 (Xǔ dì nà) 😀
 - $${\\color{orange}I \space am \space currently \space on \space the \space2024-2025\space job \space market. \space If \space you \space are \space interested \space in \space me,\space please \space drop \space me \space a \space message.}$$
 
 **Strong Languages:** Matlab, R and Python/TensorFlow
