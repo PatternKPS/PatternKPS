@@ -61,8 +61,9 @@ If you are interested in more details, check out [**my website**](https://patter
 
 ## ☎️ Contact me:
 
-<p>📫: krist.p.sinaga@gmail.com (Primary). </p> <br>
->"Note: my old email address from yahoo (kristinasinaga57@yahoo.co.id) is no longer active (I forgot my password and disabled to recover 😉)."
+<p>📫: krist.p.sinaga@gmail.com (Primary). <br>
+Note: my old email address from yahoo (kristinasinaga57@yahoo.co.id) is no longer active (I forgot my password and disabled to recover 😉).</p> 
+
 
 
 <!-- # <p align="center"> </p> -->
