@@ -1,6 +1,6 @@
 <!-- # <p align="center"> </p> -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=F7B8F2FF&random=false&width=435&lines=Hi%20there!;%20I%20am%20Kristina%20P.%20Sinaga&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=FFC0CB&random=false&width=435&lines=Hi%20there!;%20I%20am%20Kristina%20P.%20Sinaga&center=true&size=27">
   </a>
 </h1>
 
@@ -62,7 +62,7 @@ If you are interested in more details, check out [**my website**](https://patter
 ## ☎️ Contact me:
 
 <p>📫: krist.p.sinaga@gmail.com (Primary). <br>
-Note: my old email address from yahoo (kristinasinaga57@yahoo.co.id) is no longer active (I forgot my password and disabled to recover 😉).</p> 
+Note: my old email address from yahoo (kristinasinaga57@yahoo.co.id) is no longer active (I forgot my password and unable to recover 😉).</p> 
 
 
 
