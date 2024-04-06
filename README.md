@@ -56,7 +56,7 @@ If you are interested in more details, check out [**my website**](https://patter
 
 ### Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/kristina-p-sinaga-b146332bb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/kristina-p-sinaga-083503302)
 <a href="https://scholar.google.com/citations?user=bYFMDisAAAAJ&hl=en"><img src="https://user-images.githubusercontent.com/47393421/142145409-04c70c23-71a9-4b8d-b2df-509e7ad658dc.png" alt="scholar-logo" width="25" hspace="5"/></a>   </a><a href="https://orcid.org/0009-0000-6184-829X"><img src="https://user-images.githubusercontent.com/47393421/142146398-bcdbfc40-3646-45ec-ad13-4c41c955f983.png" alt="orcid-logo" width="25" hspace="5"/></a>
 
 
