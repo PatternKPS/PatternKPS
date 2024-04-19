@@ -63,7 +63,7 @@ If you are interested in more details, check out [**my website**](https://patter
 ## ☎️ Contact me:
 
 <p>📫: krist.p.sinaga@gmail.com (Primary). <br>
-Note: my old email address from yahoo (kristinasinaga57@yahoo.co.id) is no longer active (I forgot my password and disabled to recover 😉).</p> 
+Note: my old email address from yahoo (kristinasinaga57@yahoo.co.id) is no longer active (I forgot my password and disabled to recover 😉). I don't use social media such as facebook or instagram for more than a year (I ever have accounts but having no access to it anymore).</p> 
 
 
 
