@@ -66,10 +66,9 @@ If you are interested in more details, check out [**my website**](https://patter
 Note: my old email address from yahoo (kristinasinaga57@yahoo.co.id) is no longer active (I forgot my password and disabled to recover 😉).</p>
 
 
-$${\\color{orange}I \space don't \space use \space social \space media \space such\space as \space facebook \space or \space instagram \space for \space more \space than \space a \space year.}$$
+$${\\color{orange}I've\space stopped \space using \space social \space media \space such\space as \space facebook \space or \space instagram \space for \space more \space than \space a \space year \space now \space and \space I \space don't \space miss \space it\ space one \space bit.}$$
 
-
-$${\\color{orange}I \space ever \space had \space accounts \space but \space having \space no \space access \space to \space it \space anymore! \space)}$$
+$${\\color{orange}I \space ever \space had \space accounts \space and \space it's \space a \space good \space thing \space having \space no \space access \space to \space it \space anymore!}$$
 
 
 <!-- # <p align="center"> </p> -->
