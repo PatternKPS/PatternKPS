@@ -62,11 +62,11 @@ If you are interested in more details, check out [**my website**](https://patter
 
 ## ☎️ Contact me:
 
-<p>📫: krist.p.sinaga@gmail.com (Primary).</p>  <br>
-`Note: my old email address from yahoo (kristinasinaga57@yahoo.co.id) is no longer active (I forgot my password and disabled to recover 😉). I don't use social media such as facebook or instagram for more than a year (I ever had accounts but having no access to it anymore).`
+<p>📫: krist.p.sinaga@gmail.com (Primary). <br>
+Note: my old email address from yahoo (kristinasinaga57@yahoo.co.id) is no longer active (I forgot my password and disabled to recover 😉).</p>
 
 
-
+$${\\color{orange}I \space don't \space use \space social \space media \space such\space as \space facebook \space or \space instagram \space for \space more \space than \space a \space year \space (\space I \space ever \space had \space accounts \space but \space having \space no \space access \space to \space it \space anymore! \space)}$$
 
 
 <!-- # <p align="center"> </p> -->
