@@ -66,7 +66,7 @@ If you are interested in more details, check out [**my website**](https://patter
 Note: my old email address from yahoo (kristinasinaga57@yahoo.co.id) is no longer active (I forgot my password and disabled to recover 😉).</p>
 
 
-$${\\color{orange}I've\space stopped \space using \space social \space media \space such\space as \space facebook \space or \space instagram \space for \space over \space than \space a \space year \space now}$$
+$${\\color{orange}I've\space stopped \space using \space social \space media \space such\space as \space facebook \space or \space instagram \space over \space than \space a \space year \space now}$$
 
 $${\\color{orange}and \space I \space don't \space miss \space it\space one \space bit.}$$
 
